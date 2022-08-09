@@ -1,0 +1,633 @@
+{
+  "id_map": {
+    "GUI": 1
+  },
+  "mod_elements": [
+    {
+      "name": "ItemTheFatRat",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "item_the_fat_rat",
+      "path": "~/Items"
+    },
+    {
+      "name": "Playlist",
+      "type": "recipe",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "playlist",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "PlaylistItem",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "playlist_item",
+      "path": "~/Items"
+    },
+    {
+      "name": "TheFatRatPlaylist",
+      "type": "item",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "the_fat_rat_playlist",
+      "path": "~/Items"
+    },
+    {
+      "name": "TheFatRatPlaylistitem",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "the_fat_rat_playlistitem",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "TheFatRatItem",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "the_fat_rat_item",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "ThefatratRiseUp",
+      "type": "musicdisc",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "thefatrat_rise_up",
+      "path": "~/Songs"
+    },
+    {
+      "name": "ThefatratUnity",
+      "type": "musicdisc",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "thefatrat_unity",
+      "path": "~/Songs"
+    },
+    {
+      "name": "ThefatratAnjulieCloseToTheSun",
+      "type": "musicdisc",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "thefatrat_anjulie_close_to_the_sun",
+      "path": "~/Songs"
+    },
+    {
+      "name": "ThefatratPlaylistGUI",
+      "type": "gui",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {
+        "0": 1
+      },
+      "registry_name": "thefatrat_playlist_gui",
+      "path": "~/GUI"
+    },
+    {
+      "name": "CloseButtonProcedure",
+      "type": "procedure",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "close_button_procedure",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "TheFatRatPlaylistRightClickedInAir",
+      "type": "procedure",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "the_fat_rat_playlist_right_clicked_in_air",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "TFRUnityGiver",
+      "type": "procedure",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tfr_unity_giver",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "TFRRiseUpGiver",
+      "type": "procedure",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tfr_rise_up_giver",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "TFRAnjulieCloseToTheSunGiverProcedure",
+      "type": "procedure",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tfr_anjulie_close_to_the_sun_giver_procedure",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "TheFatRat",
+      "type": "tab",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "the_fat_rat"
+    },
+    {
+      "name": "TfrWeWillMeetAgain",
+      "type": "musicdisc",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tfr_we_will_meet_again",
+      "path": "~/Songs"
+    },
+    {
+      "name": "TfrFlyAway",
+      "type": "musicdisc",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tfr_fly_away",
+      "path": "~/Songs"
+    },
+    {
+      "name": "TfrEnvelop",
+      "type": "musicdisc",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tfr_envelop",
+      "path": "~/Songs"
+    },
+    {
+      "name": "TfrOrigin",
+      "type": "musicdisc",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tfr_origin",
+      "path": "~/Songs"
+    },
+    {
+      "name": "TfrMonody",
+      "type": "musicdisc",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tfr_monody",
+      "path": "~/Songs"
+    },
+    {
+      "name": "TFRWeWillMeetAgainProcedure",
+      "type": "procedure",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tfr_we_will_meet_again_procedure",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "TFROriginProcedure",
+      "type": "procedure",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tfr_origin_procedure",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "TFRMonodyProcedure",
+      "type": "procedure",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tfr_monody_procedure",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "TFRFlyAwayProcedure",
+      "type": "procedure",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tfr_fly_away_procedure",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "TFREnvelopProcedure",
+      "type": "procedure",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tfr_envelop_procedure",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "TFRTimeLapse",
+      "type": "musicdisc",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tfr_time_lapse",
+      "path": "~/Songs"
+    },
+    {
+      "name": "TFRTimeLapseProcedure",
+      "type": "procedure",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tfr_time_lapse_procedure",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "TFRNoNoNoProcedure",
+      "type": "procedure",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tfr_no_no_no_procedure",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "TFRNoNoNo",
+      "type": "musicdisc",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tfr_no_no_no",
+      "path": "~/Songs"
+    },
+    {
+      "name": "TFRMayday",
+      "type": "musicdisc",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tfr_mayday",
+      "path": "~/Songs"
+    },
+    {
+      "name": "TFRMaydayProcedure",
+      "type": "procedure",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tfr_mayday_procedure",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Procedures"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "thefatrat_rise_up",
+      "files": [
+        "thefatrat_-_rise_up"
+      ],
+      "category": "master",
+      "subtitle": ""
+    },
+    {
+      "name": "thefatrat_unity",
+      "files": [
+        "thefatrat_-_unity"
+      ],
+      "category": "master",
+      "subtitle": ""
+    },
+    {
+      "name": "thefatrat_anjulie_close_to_the_sun",
+      "files": [
+        "thefatrat__anjulie_-_close_to_the_sun"
+      ],
+      "category": "master",
+      "subtitle": ""
+    },
+    {
+      "name": "thefatrat_ceciliagault_our_song_a_minecraft_music_video",
+      "files": [
+        "thefatrat__cecilia_gault_-_our_song_-_a_minecraft_music_video"
+      ],
+      "category": "master",
+      "subtitle": ""
+    },
+    {
+      "name": "tfr_envelop",
+      "files": [
+        "thefatrat_-_envelope_dota_2_music_pack"
+      ],
+      "category": "master",
+      "subtitle": ""
+    },
+    {
+      "name": "tfr_fly_away",
+      "files": [
+        "thefatrat_-_fly_away_lyrics_feat._anjulie"
+      ],
+      "category": "master",
+      "subtitle": ""
+    },
+    {
+      "name": "tfr_monody",
+      "files": [
+        "thefatrat_-_monody_feat._laura_brehm"
+      ],
+      "category": "master",
+      "subtitle": ""
+    },
+    {
+      "name": "tfr_origin",
+      "files": [
+        "thefatrat_-_origin_dota_2_music_pack"
+      ],
+      "category": "master",
+      "subtitle": ""
+    },
+    {
+      "name": "tfr_we_will_meet_again",
+      "files": [
+        "thefatrat__laura_brehm_-_well_meet_again"
+      ],
+      "category": "master",
+      "subtitle": ""
+    },
+    {
+      "name": "tfr_time_lapse",
+      "files": [
+        "thefatrat-time-lapse"
+      ],
+      "category": "master",
+      "subtitle": ""
+    },
+    {
+      "name": "tfr_no_no_no",
+      "files": [
+        "thefatrat_-_no_no_no_online-audio-converter.com"
+      ],
+      "category": "master",
+      "subtitle": ""
+    },
+    {
+      "name": "tfr_mayday",
+      "files": [
+        "thefatrat_-_mayday_feat._laura_brehm_online-audio-converter.com"
+      ],
+      "category": "master",
+      "subtitle": ""
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "item.the_fat_rat_playlist.name": "The Fat Rat Playlist",
+      "item.record.thefatrat_rise_up.desc": "TheFatRat Rise Up ",
+      "item.tfr_monody.name": "Monody",
+      "item.tfr_time_lapse.name": "Time Lapse",
+      "item.record.tfr_no_no_no.desc": "TheFatRat-No No No",
+      "item.tfr_envelop.name": "Envelop",
+      "item.record.tfr_origin.desc": "TheFatRat Origin",
+      "item.record.tfr_envelop.desc": "TheFatRat Envelop",
+      "item.record.tfr_time_lapse.desc": "TheFatRat Time Lapse",
+      "subtitles.tfr_we_will_meet_again": "",
+      "item.tfr_fly_away.name": "Fly Away",
+      "item.tfr_no_no_no.name": "No No No",
+      "subtitles.thefatrat_unity": "",
+      "subtitles.tfr_monody": "",
+      "subtitles.tfr_origin": "",
+      "item.record.tfr_fly_away.desc": "TheFatRatFlyAway",
+      "item.record.tfr_monody.desc": "TheFatRat Monody",
+      "subtitles.thefatrat_rise_up": "",
+      "item.tfr_mayday.name": "Mayday",
+      "item.record.tfr_mayday.desc": "TheFatRat MAYDAY",
+      "item.item_the_fat_rat.name": "Item The Fat Rat",
+      "subtitles.thefatrat_ceciliagault_our_song_a_minecraft_music_video": "",
+      "item.tfr_origin.name": "Origin",
+      "itemGroup.tabthe_fat_rat": "The Fat Rat",
+      "subtitles.tfr_fly_away": "",
+      "item.thefatrat_unity.name": "Unity",
+      "item.thefatrat_anjulie_close_to_the_sun.name": "Anjulie Close To The Sun",
+      "subtitles.thefatrat_anjulie_close_to_the_sun": "",
+      "subtitles.tfr_envelop": "",
+      "item.tfr_we_will_meet_again.name": "We Will Meet Again",
+      "subtitles.gotye_somebody_i_used_to_know": "",
+      "subtitles.tfr_mayday": "",
+      "item.thefatrat_rise_up.name": " Rise Up",
+      "subtitles.tfr_no_no_no": "",
+      "item.record.tfr_we_will_meet_again.desc": "TheFatRat We Will Meet Again",
+      "item.playlist_item.name": "Playlist Item",
+      "item.record.thefatrat_unity.desc": "TheFatRatUnity",
+      "subtitles.tfr_time_lapse": "",
+      "item.record.thefatrat_anjulie_close_to_the_sun.desc": "TheFatRat Anjulie Close To The Sun"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": [
+      {
+        "name": "Recipes",
+        "children": []
+      },
+      {
+        "name": "Songs",
+        "children": []
+      },
+      {
+        "name": "GUI",
+        "children": []
+      },
+      {
+        "name": "Procedures",
+        "children": []
+      },
+      {
+        "name": "Items",
+        "children": []
+      }
+    ]
+  },
+  "workspaceSettings": {
+    "modid": "dj_music_thefatrat_playlist",
+    "modName": "DJ Music TheFatRat Playlist",
+    "version": "1.0.0",
+    "author": "Fahad Sameer Shaikh, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.12.2",
+    "modElementsPackage": "net.mcreator.djmusicthefatratplaylist",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100118117
+}

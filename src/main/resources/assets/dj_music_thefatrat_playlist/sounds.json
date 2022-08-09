@@ -1,0 +1,110 @@
+{
+  "thefatrat_rise_up": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dj_music_thefatrat_playlist:thefatrat_-_rise_up",
+        "stream": false
+      }
+    ]
+  },
+  "thefatrat_unity": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dj_music_thefatrat_playlist:thefatrat_-_unity",
+        "stream": false
+      }
+    ]
+  },
+  "thefatrat_anjulie_close_to_the_sun": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dj_music_thefatrat_playlist:thefatrat__anjulie_-_close_to_the_sun",
+        "stream": false
+      }
+    ]
+  },
+  "thefatrat_ceciliagault_our_song_a_minecraft_music_video": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dj_music_thefatrat_playlist:thefatrat__cecilia_gault_-_our_song_-_a_minecraft_music_video",
+        "stream": false
+      }
+    ]
+  },
+  "tfr_envelop": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dj_music_thefatrat_playlist:thefatrat_-_envelope_dota_2_music_pack",
+        "stream": false
+      }
+    ]
+  },
+  "tfr_fly_away": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dj_music_thefatrat_playlist:thefatrat_-_fly_away_lyrics_feat._anjulie",
+        "stream": false
+      }
+    ]
+  },
+  "tfr_monody": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dj_music_thefatrat_playlist:thefatrat_-_monody_feat._laura_brehm",
+        "stream": false
+      }
+    ]
+  },
+  "tfr_origin": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dj_music_thefatrat_playlist:thefatrat_-_origin_dota_2_music_pack",
+        "stream": false
+      }
+    ]
+  },
+  "tfr_we_will_meet_again": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dj_music_thefatrat_playlist:thefatrat__laura_brehm_-_well_meet_again",
+        "stream": false
+      }
+    ]
+  },
+  "tfr_time_lapse": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dj_music_thefatrat_playlist:thefatrat-time-lapse",
+        "stream": false
+      }
+    ]
+  },
+  "tfr_no_no_no": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dj_music_thefatrat_playlist:thefatrat_-_no_no_no_online-audio-converter.com",
+        "stream": false
+      }
+    ]
+  },
+  "tfr_mayday": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dj_music_thefatrat_playlist:thefatrat_-_mayday_feat._laura_brehm_online-audio-converter.com",
+        "stream": false
+      }
+    ]
+  }
+}

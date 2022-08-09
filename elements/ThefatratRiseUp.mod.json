@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "artworks-000572396264-piknxw-t500x500",
+    "name": " Rise Up",
+    "description": "TheFatRat Rise Up ",
+    "creativeTab": {
+      "value": "CUSTOM:TheFatRat"
+    },
+    "music": {
+      "value": "CUSTOM:thefatrat_rise_up"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

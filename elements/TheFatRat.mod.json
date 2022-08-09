@@ -1,0 +1,11 @@
+{
+  "_fv": 18,
+  "_type": "tab",
+  "definition": {
+    "name": "The Fat Rat",
+    "icon": {
+      "value": "CUSTOM:ItemTheFatRat"
+    },
+    "showSearch": true
+  }
+}

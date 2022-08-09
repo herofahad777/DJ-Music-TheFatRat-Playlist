@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "artworks-000572396264-piknxw-t500x500",
+    "name": "Origin",
+    "description": "TheFatRat Origin",
+    "creativeTab": {
+      "value": "CUSTOM:TheFatRat"
+    },
+    "music": {
+      "value": "CUSTOM:tfr_origin"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

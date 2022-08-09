@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "artworks-000572396264-piknxw-t500x500",
+    "name": "No No No",
+    "description": "TheFatRat-No No No",
+    "creativeTab": {
+      "value": "CUSTOM:TheFatRat"
+    },
+    "music": {
+      "value": "CUSTOM:tfr_no_no_no"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

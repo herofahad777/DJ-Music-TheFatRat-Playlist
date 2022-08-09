@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "artworks-000572396264-piknxw-t500x500",
+    "name": "Anjulie Close To The Sun",
+    "description": "TheFatRat Anjulie Close To The Sun",
+    "creativeTab": {
+      "value": "CUSTOM:TheFatRat"
+    },
+    "music": {
+      "value": "CUSTOM:thefatrat_anjulie_close_to_the_sun"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

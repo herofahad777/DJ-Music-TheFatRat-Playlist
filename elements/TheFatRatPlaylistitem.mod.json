@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:ItemTheFatRat"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:ItemTheFatRat"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:PlaylistItem"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:ItemTheFatRat"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:ItemTheFatRat"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:TheFatRatPlaylist"
+    },
+    "name": "the_fat_rat_playlistitem",
+    "namespace": "mod"
+  }
+}

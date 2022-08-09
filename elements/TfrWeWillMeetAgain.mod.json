@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "artworks-000572396264-piknxw-t500x500",
+    "name": "We Will Meet Again",
+    "description": "TheFatRat We Will Meet Again",
+    "creativeTab": {
+      "value": "CUSTOM:TheFatRat"
+    },
+    "music": {
+      "value": "CUSTOM:tfr_we_will_meet_again"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

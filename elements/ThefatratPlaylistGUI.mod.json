@@ -1,0 +1,204 @@
+{
+  "_fv": 18,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 425,
+    "height": 240,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": false,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "Thefatrat Songs Playlist",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "Thefatrat Songs Playlist",
+          "x": 153,
+          "y": 5
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Close",
+          "width": 50,
+          "height": 20,
+          "name": "Close",
+          "x": 6,
+          "y": 3
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Next>>>",
+          "width": 60,
+          "height": 20,
+          "name": "Next>>>",
+          "x": 361,
+          "y": 5
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Unity",
+          "onClick": {
+            "name": "TFRUnityGiver"
+          },
+          "width": 50,
+          "height": 20,
+          "name": "Unity",
+          "x": 4,
+          "y": 38
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Rise Up",
+          "onClick": {
+            "name": "TFRRiseUpGiver"
+          },
+          "width": 60,
+          "height": 20,
+          "name": "Rise Up",
+          "x": 53,
+          "y": 38
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Close To The Sun",
+          "onClick": {
+            "name": "TFRAnjulieCloseToTheSunGiverProcedure"
+          },
+          "width": 105,
+          "height": 20,
+          "name": "Close To The Sun",
+          "x": 112,
+          "y": 38
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Envelop",
+          "onClick": {
+            "name": "TFREnvelopProcedure"
+          },
+          "width": 60,
+          "height": 20,
+          "name": "Envelop",
+          "x": 334,
+          "y": 38
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Fly Away",
+          "onClick": {
+            "name": "TFRFlyAwayProcedure"
+          },
+          "width": 65,
+          "height": 20,
+          "name": "Fly Away",
+          "x": 216,
+          "y": 38
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Monody",
+          "onClick": {
+            "name": "TFRMonodyProcedure"
+          },
+          "width": 55,
+          "height": 20,
+          "name": "Monody",
+          "x": 280,
+          "y": 38
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Origin",
+          "onClick": {
+            "name": "TFROriginProcedure"
+          },
+          "width": 55,
+          "height": 20,
+          "name": "Origin",
+          "x": 4,
+          "y": 61
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "We'ill meet again",
+          "onClick": {
+            "name": "TFRWeWillMeetAgainProcedure"
+          },
+          "width": 110,
+          "height": 20,
+          "name": "We'ill meet again",
+          "x": 58,
+          "y": 61
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Time Lapse",
+          "onClick": {
+            "name": "TFRTimeLapseProcedure"
+          },
+          "width": 75,
+          "height": 20,
+          "name": "Time Lapse",
+          "x": 167,
+          "y": 61
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "No No No",
+          "onClick": {
+            "name": "TFRNoNoNoProcedure"
+          },
+          "width": 65,
+          "height": 20,
+          "name": "No No No",
+          "x": 241,
+          "y": 61
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "MAYDAY",
+          "onClick": {
+            "name": "TFRMaydayProcedure"
+          },
+          "width": 55,
+          "height": 20,
+          "name": "MAYDAY",
+          "x": 305,
+          "y": 61
+        }
+      }
+    ]
+  }
+}
